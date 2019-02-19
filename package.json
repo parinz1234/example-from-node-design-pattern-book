@@ -1,0 +1,9 @@
+{
+  "name": "example-from-node-design-pattern-book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
