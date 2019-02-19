@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "level": "^4.0.0",
+    "level-sublevel": "^6.6.5"
   }
 }
